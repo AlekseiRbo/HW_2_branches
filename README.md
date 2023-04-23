@@ -11,7 +11,7 @@
 
 2. Push all branches to an external repository  
   `git add .`  
-  `git commit 'new branch'`  
+  `git commit 'Add branches'`  
   `git checkout main`  
   `git push -u origin 'Postman' 'Jmeter' 'CheckLists' 'Bag_Reports' 'SQL' 'Charles' 'MobileTesting'`  
 
