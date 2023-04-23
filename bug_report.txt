@@ -1,0 +1,10 @@
+ID: 001  
+Title: What? Where? When?  
+Severity: Medium  
+Priority: High
+Precondition: Preparation steps  
+Environment: Devices  
+STR: Steps to reproduce  
+ER: Expected Result  
+AR: Actual Result  
+Attachment: link 
