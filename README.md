@@ -59,7 +59,7 @@ Link
   `git push`  
 
 9. On an external repository, make a *Pull Request* of the **CheckLists** branch in main      
-Go to [GitHub_AlekseiRbo](https://github.com/AlekseiRbo/HW_2_branches/ "GitHub_AlekseiRbo") , click **Compare & Pull request**  
+Go to [GitHub_AlekseiRbo](https://github.com/AlekseiRbo/HW_2_branches/ "GitHub_AlekseiRbo") , click **"Compare & Pull request"**  
 
 10. Synchronize External and Local branches Main  
   `git checkout main`  
